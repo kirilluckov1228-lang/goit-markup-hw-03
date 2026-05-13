@@ -6,6 +6,7 @@
     color: #2e2f42;
     margin-bottom: 8px;
 }
+
 .features-text{
     font-size: 16px;
     line-height: 1.5;
@@ -25,9 +26,11 @@
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+
 .features {
   padding: 120px 0;
 }
+
 .features-list {
   display: flex;
   gap: 24px; 

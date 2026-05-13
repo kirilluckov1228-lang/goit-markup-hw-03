@@ -36,6 +36,7 @@
   font-style: normal;
   margin-left: auto; 
 }
+
 .contacts-list {
   display: flex;
   gap: 40px;
@@ -43,6 +44,7 @@
   padding: 0;
   list-style: none;
 }
+
 .logo{
     font-family: 'Releway', sans-serif;
     font-weight: 700;
@@ -53,6 +55,7 @@
     color: #2e2f42;
     margin-right: 76px;
 }
+
 .logo-light{
     color: #4d5ae5; 
 }

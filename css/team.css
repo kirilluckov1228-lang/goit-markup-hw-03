@@ -11,6 +11,7 @@
                 0px 1px 1px rgba(46, 47, 66, 0.16), 
                 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
+
 .team-name{ 
    font-family: "Roboto", sans-serif;
    font-weight: 500;
@@ -20,6 +21,7 @@
    color: #2e2f42;
    margin-bottom: 8px;
 }
+
 .team-role{
    font-family: "Roboto", sans-serif;
    /* font-weight: 400; */
@@ -38,6 +40,7 @@
     color: #2e2f42;
     margin-bottom: 72px;
 }
+
 .team-list{
    display: flex;
    /* flex-wrap: wrap; */
@@ -47,10 +50,12 @@
    margin: 0;
    padding: 0;
 }
+
 .team-content {
     padding: 32px 16px; 
     text-align: center;
 }
+
 .section {
   padding: 120px 0;
 }
