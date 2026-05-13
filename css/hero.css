@@ -1,0 +1,24 @@
+.hero {
+  background-color: #2e2f42;
+}
+
+.hero-but {
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+.hero-but:hover, 
+.hero-but:focus {
+  background-color: #404bbf;
+} 
+
+
+.hero-title {
+    text-align: center;
+}

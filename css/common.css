@@ -1,0 +1,56 @@
+body{
+  font-family: "Roboto","Raleway", sans-serif;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  color: #434455;
+  background-color: #fff;
+}
+
+.hero-title {
+  color: #ffffff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #2E2F42;
+  line-height: 1.2;
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+
+button {
+  line-height: 1.5;
+  later-spacin: 0.04em;
+  cursor: pointer;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+
+.sr-only {
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(100%);
+  margin: -1px;
+}
+
