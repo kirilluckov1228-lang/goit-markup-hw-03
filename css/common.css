@@ -1,46 +1,39 @@
 body{
-  font-family: "Roboto","Raleway", sans-serif;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  color: #434455;
-  background-color: #fff;
+    font-family: 'Roboto' , sans-serif;
+    color:#434455 ;
+    background-color: #ffffff;
+    line-height: 1.5;
+    font-weight: 400;
+    font-size: 16px;
 }
-
-.hero-title {
-  color: #ffffff;
-  font-size: 56px;
-  font-weight: 700;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  text-align: center;
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
-
-
-h3 {
-  font-size: 20px;
-  font-weight: 500;
-  color: #2E2F42;
-  line-height: 1.2;
+a{
+    text-decoration: none;
 }
-
-
-ul {
-  list-style-type: none;
+.section-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42; 
 }
-
-
-button {
-  line-height: 1.5;
-  later-spacin: 0.04em;
-  cursor: pointer;
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+    padding: 0;
 }
-
-
-a {
-  text-decoration: none;
+.container{
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 1158px;
 }
-
-
+.section{
+    padding-top: 120px;
+  padding-bottom: 120px;
+}
 .sr-only {
   position: absolute;
   white-space: nowrap;
@@ -53,4 +46,13 @@ a {
   clip-path: inset(100%);
   margin: -1px;
 }
-
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.container {
+  max-width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
